@@ -2,10 +2,10 @@
 
 # Prediksi Harga Saham BBRI menggunakan Artificial Neural Network (Backpropagation)
 
-## 📌 Deskripsi Proyek
+## Deskripsi Proyek
 Penelitian ini bertujuan untuk membangun dan mengevaluasi model *Artificial Neural Network* (ANN) dengan algoritma *Backpropagation* guna memprediksi harga penutupan saham yang telah disesuaikan (*Adjusted Close*) dari **PT Bank Rakyat Indonesia (Persero) Tbk (BBRI.JK)**. Data yang digunakan merupakan data sekunder bulanan dari periode Januari 2020 hingga Desember 2024 yang diperoleh dari Yahoo Finance.
 
-## ⚙️ Variabel & Arsitektur Model
+## Variabel & Arsitektur Model
 * **Variabel Input:** Open (Pembukaan), High (Tertinggi), Low (Terendah), dan Volume perdagangan.
 * **Variabel Target (Output):** Adjusted Close (Harga Penutupan yang Disesuaikan).
 * **Arsitektur ANN:** Multi-Layer Perceptron (MLP) dengan 1 *hidden layer* yang terdiri dari 3 neuron (Arsitektur 4-3-1).
